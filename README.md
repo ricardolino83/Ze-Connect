@@ -1,5 +1,6 @@
 # Zé Connect
 
+![Image1](./ex-infra.png)
 
 <p>Como requisitos minimos para o ambiente do Z&eacute; Connect, o ambiente deve conter:</p>
 <ul>
