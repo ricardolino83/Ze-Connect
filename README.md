@@ -11,6 +11,7 @@
 <li>AWS CloudTrail: para registrar e monitorar continuamente o ambiente, a ferramenta possibilita auditorias aos registrar automaticamente logs de eventos de a&ccedil;&otilde;es executadas no ambiente;</li>
 <li>AWS Config: A solu&ccedil;&atilde;o permite monitorar de forma centralizada a conformidade do ambiente, gerenciamento de altera&ccedil;&otilde;es al&eacute;m de análises de seguran&ccedil;a;</li>
 <li>AWS Security Hub: Centraliza os alertas de seguran&ccedil;a dos servi&ccedil;os GuardDuty, Macie e Inspector.</li>
+<li>AWS Artifact: Gerenciamento de frameworks de segurança da informação.</li>
 </ul>
 
 <p>O Zé Connect será uma plataforma escalável, através da API o ambiente poderá ser acessado e adaptado a necessidade atual ou futura do Zé ou da Ambev.</p>
