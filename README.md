@@ -49,9 +49,9 @@ Por fim, realização de pen-test ao menos 2 vezes ao ano, endereçando todos os
 
 ## Principais dados que o Zé Connect está exposto
 
-O principal dano a que está exposto é o vazamento ou exposição de dados, para isso um controle acurado deve ser feito em toda a infraestrutura e aplicação, a fim de evitar possiveis vulnerabilidades que possam colocar em risco toda a operação, visto que com a entrada em vigor da LGPD, além da multa e outras sansões, pode ser suspenso parcialmente ou totalmente o uso dos dados pessoais.
+O principal dano a que está exposto é o vazamento ou exposição de dados, para isso um controle acurado deve ser feito em toda a infraestrutura e aplicação, a fim de evitar possíveis vulnerabilidades que possam colocar em risco toda a operação, visto que com a entrada em vigor da LGPD, além da multa e outras sansões, pode ser suspenso parcialmente ou totalmente o uso dos dados pessoais.
 
-Os ambientes em nuvem, podem ser vulneraveis a infecção por mineradores de criptomoedas, elevando o custo para organização.
+Os ambientes em nuvem, podem ser vulneráveis a infecção por mineradores de criptomoedas, elevando o custo para organização.
 
 Ataques de negação de serviço, para isso ferramentas como anti-DDOS podem proteger todo o ambiente.
 
@@ -59,7 +59,7 @@ Acesso indevido e falha na revogação de acesso, controles e gestão centraliza
 
 ## Mitigação de riscos
 
-Para mitigação de riscos, é recomendado a adoção de recomentações e framekorks de segurança, como por exemplo:
+Para mitigação de riscos, é recomendado a adoção de recomendações e frameworks de segurança, como por exemplo:
 <ul>
 <li>Cloud Security Alliance CSA - Security Guidance v4.0</li>
 <li>NIST-  Cybersecurity Framework</li>
