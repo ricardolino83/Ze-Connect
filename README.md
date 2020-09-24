@@ -3,7 +3,7 @@
 ![Image1](./ex-infra.png)
 
 ## Pré-requisitos
-<p>Como requisitos minimos para o ambiente do Z&eacute; Connect, o ambiente deve conter:</p>
+<p>Como requisitos mínimos para o ambiente do Z&eacute; Connect, o ambiente deve conter:</p>
 <ul>
 <li>AWS IAM: gerenciar o acesso pessoal de cada engenheiro a todo ambiente, garantindo que apenas quem tem direito possa ter acesso ao ambiente ou recurso;</li>
 <li>AWS SSO: reduzindo o número de logins criados e facilitando o acesso de cada</li>
